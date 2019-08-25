@@ -62,7 +62,6 @@ INSERT INTO pooquotes (quote) VALUES ('Heads or tails?');
 INSERT INTO pooquotes (quote) VALUES ('Tall and blonde poo');
 INSERT INTO pooquotes (quote) VALUES ('Poo Spiral.');
 INSERT INTO pooquotes (quote) VALUES ('This one would be epic without the T.P.');
-
 INSERT INTO pooquotes (quote) VALUES ('Goop');
 INSERT INTO pooquotes (quote) VALUES ('A blurry pile with a T.P. top.');
 INSERT INTO pooquotes (quote) VALUES ('Arms crossed.');
