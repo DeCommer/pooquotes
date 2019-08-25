@@ -29,6 +29,12 @@ h2 {
     color: #9CB380
 }
 
+a {
+    text-decoration: none;
+    color: #9CB380;
+    font-size: 1.5em;
+}
+
 #pooBtn{
     outline: none;
     border: none;
