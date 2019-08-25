@@ -18,7 +18,7 @@ const getQuote = (request, response) => {
     })
 }
 
-app.route('/').get(getQuote)
+app.route('/pooquotes').get(getQuote)
 
 app.listen(process.env.PORT || 3002, () => {
     console.log('Server is up')
