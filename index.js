@@ -5,6 +5,9 @@ const { pool} = require('./config')
 
 const app = express()
 
+app.use(express.static(__dirname + '/public'));
+app.use(express.static(__dirname + '/views'));
+
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ etended: true }))
 app.use(cors())

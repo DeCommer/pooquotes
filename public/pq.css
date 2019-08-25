@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Concert+One|Libre+Caslon+Display&display=swap');
+
+body {
+    text-align: center;
+    height: 100%;
+    font-size: 100%;
+    background-color: #F8F4E3;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+@media screen and (max-width: 45em) {
+    body { font-size: 80%;}
+}
+
+@media screen and (max-width: 25em) {
+    body { font-size: 45%;}
+}
+
+h1 {
+    font-size: 3.747em;
+    font-family: 'Concert One', cursive;
+    color: #7D451B;
+    margin-bottom: -15px;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #9CB380
+}
+
+#pooBtn{
+    outline: none;
+    border: none;
+    background: transparent;
+    transition: text-shadow, .2s ease-in-out;
+    color: #7D451B;
+    font-size: 10em;
+}
+
+#pooBtn:hover {
+    text-shadow: 1px 1px 30px rgb(209, 171, 4);
+}
+
+#pooBtn:active {
+    margin-top: 2px;
+    margin-bottom: -2px;
+}
+
+#quote {
+    color: #D19C1D;
+    opacity: 0;
+    margin-top: 30px;
+    animation: 1s upfadein 0.3s forwards;
+    font-size: 3em;
+    font-family: 'Libre Caslon Display', serif;
+}
+
+#quote::before, #quote::after {
+    content: '"';
+}
+
+@keyframes upfadein {
+    100% {
+        opacity: 1;
+        margin: 0;
+    }
+} 
