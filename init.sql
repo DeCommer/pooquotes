@@ -69,7 +69,7 @@ INSERT INTO pooquotes (quote) VALUES ('🚮This one would be epic without the T.
 
 INSERT INTO pooquotes (quote) VALUES ('🤮 Goop');
 INSERT INTO pooquotes (quote) VALUES ('A blurry pile with a T.P. top.');
-INSERT INTO pooquotes (quote) VALUES ('🙅‍ Arms crossed.');
+INSERT INTO pooquotes (quote) VALUES ('🙅 Arms crossed.');
 INSERT INTO pooquotes (quote) VALUES ('🐋 The beached whale.');
 INSERT INTO pooquotes (quote) VALUES ('I have no idea what all that other stuff is..');
 INSERT INTO pooquotes (quote) VALUES ('A big sixq');
@@ -89,7 +89,7 @@ INSERT INTO pooquotes (quote) VALUES ('Barely worth a mention');
 INSERT INTO pooquotes (quote) VALUES ('A strange little poo');
 INSERT INTO pooquotes (quote) VALUES ('Dark brown and strong');
 INSERT INTO pooquotes (quote) VALUES ('⛪ HOLY PILE!');
-INSERT INTO pooquotes (quote) VALUES ('🤷‍ Where does it all come from!?');
+INSERT INTO pooquotes (quote) VALUES ('🤷 Where does it all come from!?');
 
 INSERT INTO pooquotes (quote) VALUES ('Giant pile');
 INSERT INTO pooquotes (quote) VALUES ('😎 This poo has a nice sheen');
