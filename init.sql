@@ -1,4 +1,4 @@
--- UPDATE pooquotes SET quote = '🙅‍♂️ Arms crossed.' WHERE ID = 61;
+-- Pottywrite 2019 Joseph DeCommer
 
 CREATE TABLE pooquotes (
   ID SERIAL PRIMARY KEY,
