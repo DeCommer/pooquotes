@@ -189,4 +189,4 @@ INSERT INTO pooquotes (quote) VALUES ('🥤 My poopshake brings all the flies to
 INSERT INTO pooquotes (quote) VALUES ('🍫 Milk milk lemonade around the corner fudge is made!');
 INSERT INTO pooquotes (quote) VALUES ('🍷 Not my finest...');
 INSERT INTO pooquotes (quote) VALUES ('☕ Coffee was the catalyst!');
-
+INSERT INTO pooquotes (quote) VALUES ('🚽 I think it''s time to clean the turlet!');
