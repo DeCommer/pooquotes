@@ -1,4 +1,4 @@
--- Pottywrite 2019 Joseph DeCommer
+-- Pottywipe 2019 Joseph DeCommer
 
 CREATE TABLE pooquotes (
   ID SERIAL PRIMARY KEY,
