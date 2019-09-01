@@ -191,3 +191,4 @@ INSERT INTO pooquotes (quote) VALUES ('🍷 Not my finest...');
 INSERT INTO pooquotes (quote) VALUES ('☕ Coffee was the catalyst!');
 INSERT INTO pooquotes (quote) VALUES ('🚽 I think it''s time to clean the turlet!');
 INSERT INTO pooquotes (quote) VALUES ('🧯 A whole can of poo spray!');
+INSERT INTO pooquotes (quote) VALUES ('😖 Some poos have to be forced into the world.');
