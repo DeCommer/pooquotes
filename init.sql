@@ -5,7 +5,6 @@ CREATE TABLE pooquotes (
   quote VARCHAR(255) NOT NULL
 );
 
-
 INSERT INTO pooquotes (quote) VALUES ('🎉 This is the first poo of the New Year!');
 INSERT INTO pooquotes (quote) VALUES ('🥈 The number two poo');
 INSERT INTO pooquotes (quote) VALUES ('My bowels rested on the 3rd day of the year, but not the 4th!');
@@ -193,3 +192,5 @@ INSERT INTO pooquotes (quote) VALUES ('🚽 I think it''s time to clean the turl
 INSERT INTO pooquotes (quote) VALUES ('🧯 A whole can of poo spray!');
 INSERT INTO pooquotes (quote) VALUES ('😖 Some poos have to be forced into the world.');
 INSERT INTO pooquotes (quote) VALUES ('👖 If you wear pants made of crap, no one can tell if you crapped your pants.');
+INSERT INTO pooquotes (quote) VALUES ('🥵 When it''s hot, poos get shot. ...out of your butt.');
+
