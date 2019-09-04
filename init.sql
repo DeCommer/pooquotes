@@ -1,4 +1,6 @@
 -- Pottywipe 2019 Joseph DeCommer
+-- for MongoDB insert
+-- db.pooquote.insertMany([{"quote": "🍽 Eat poo repeat."}])
 
 CREATE TABLE pooquotes (
   ID SERIAL PRIMARY KEY,
@@ -194,7 +196,4 @@ INSERT INTO pooquotes (quote) VALUES ('😖 Some poos have to be forced into the
 INSERT INTO pooquotes (quote) VALUES ('👖 If you wear pants made of crap, no one can tell if you crapped your pants.');
 INSERT INTO pooquotes (quote) VALUES ('🥵 When it''s hot, poos get shot. ...out of your butt.');
 INSERT INTO pooquotes (quote) VALUES ('📱 NO! I have never dropped my phone in the toilet...');
-
-
--- for MongoDB insert
--- db.pooquote.insertMany([{"quote": "📱 NO! I have never dropped my phone in the toilet..."}])
+INSERT INTO pooquotes (quote) VALUES ('🍽  Eat poo repeat.');
