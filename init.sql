@@ -194,3 +194,7 @@ INSERT INTO pooquotes (quote) VALUES ('😖 Some poos have to be forced into the
 INSERT INTO pooquotes (quote) VALUES ('👖 If you wear pants made of crap, no one can tell if you crapped your pants.');
 INSERT INTO pooquotes (quote) VALUES ('🥵 When it''s hot, poos get shot. ...out of your butt.');
 INSERT INTO pooquotes (quote) VALUES ('📱 NO! I have never dropped my phone in the toilet...');
+
+
+-- for MongoDB insert
+-- db.pooquote.insertMany([{"quote": "📱 NO! I have never dropped my phone in the toilet..."}])
