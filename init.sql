@@ -199,4 +199,7 @@ INSERT INTO pooquotes (quote) VALUES ('📱 NO! I have never dropped my phone in
 INSERT INTO pooquotes (quote) VALUES ('🍽 Eat poo repeat.');
 INSERT INTO pooquotes (quote) VALUES ('🧫 Respect poo culture');
 INSERT INTO pooquotes (quote) VALUES ('📃 The poo was due!');
+INSERT INTO pooquotes (quote) VALUES ('🔕 Nothing to sound the poo alarm about!');
+
+
 
