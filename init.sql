@@ -198,3 +198,5 @@ INSERT INTO pooquotes (quote) VALUES ('🥵 When it''s hot, poos get shot. ...ou
 INSERT INTO pooquotes (quote) VALUES ('📱 NO! I have never dropped my phone in the toilet...');
 INSERT INTO pooquotes (quote) VALUES ('🍽 Eat poo repeat.');
 INSERT INTO pooquotes (quote) VALUES ('🧫 Respect poo culture');
+INSERT INTO pooquotes (quote) VALUES ('📃 The poo was due!');
+
