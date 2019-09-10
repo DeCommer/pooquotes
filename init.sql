@@ -200,6 +200,7 @@ INSERT INTO pooquotes (quote) VALUES ('🍽 Eat poo repeat.');
 INSERT INTO pooquotes (quote) VALUES ('🧫 Respect poo culture');
 INSERT INTO pooquotes (quote) VALUES ('📃 The poo was due!');
 INSERT INTO pooquotes (quote) VALUES ('🔕 Nothing to sound the poo alarm about!');
+INSERT INTO pooquotes (quote) VALUES ('🌋 Sometimes poo flows like lava');
 
 
 
