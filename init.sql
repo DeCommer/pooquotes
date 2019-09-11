@@ -1,6 +1,4 @@
 -- Pottywipe 2019 Joseph DeCommer
--- for MongoDB insert
--- db.pooquote.insertMany([{"quote": "🍽 Eat poo repeat."}])
 
 CREATE TABLE pooquotes (
   ID SERIAL PRIMARY KEY,
@@ -201,6 +199,7 @@ INSERT INTO pooquotes (quote) VALUES ('🧫 Respect poo culture');
 INSERT INTO pooquotes (quote) VALUES ('📃 The poo was due!');
 INSERT INTO pooquotes (quote) VALUES ('🔕 Nothing to sound the poo alarm about!');
 INSERT INTO pooquotes (quote) VALUES ('🌋 Sometimes poo flows like lava');
+INSERT INTO pooquotes (quote) VALUES ('🇺🇸 America the pootiful');
 
 
 
