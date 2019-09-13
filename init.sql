@@ -201,6 +201,7 @@ INSERT INTO pooquotes (quote) VALUES ('🔕 Nothing to sound the poo alarm about
 INSERT INTO pooquotes (quote) VALUES ('🌋 Sometimes poo flows like lava');
 INSERT INTO pooquotes (quote) VALUES ('🇺🇸 America the pootiful');
 INSERT INTO pooquotes (quote) VALUES ('⚰️ You haven''t lived until you''ve pooed!');
+INSERT INTO pooquotes (quote) VALUES ('🍛 Indian food. ''Nuff said.');
 
 
 
