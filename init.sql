@@ -204,3 +204,4 @@ INSERT INTO pooquotes (quote) VALUES ('⚰️ You haven''t lived until you''ve p
 INSERT INTO pooquotes (quote) VALUES ('🍛 Indian food. ''Nuff said.');
 INSERT INTO pooquotes (quote) VALUES ('✨ Over in a flash');
 INSERT INTO pooquotes (quote) VALUES ('🧬 Poo! There''s DNA in it!');
+INSERT INTO pooquotes (quote) VALUES ('🕹 Don''t let the poo control you. You control the poo.');
