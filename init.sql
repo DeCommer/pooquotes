@@ -206,3 +206,4 @@ INSERT INTO pooquotes (quote) VALUES ('✨ Over in a flash');
 INSERT INTO pooquotes (quote) VALUES ('🧬 Poo! There''s DNA in it!');
 INSERT INTO pooquotes (quote) VALUES ('🕹 Don''t let the poo control you. You control the poo.');
 INSERT INTO pooquotes (quote) VALUES ('🍻 Poos and brews!');
+INSERT INTO pooquotes (quote) VALUES ('🚓 Call the cops! My butt has committed a terrible crime!');
