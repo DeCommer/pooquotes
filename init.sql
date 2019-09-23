@@ -208,3 +208,4 @@ INSERT INTO pooquotes (quote) VALUES ('🕹 Don''t let the poo control you. You 
 INSERT INTO pooquotes (quote) VALUES ('🍻 Poos and brews!');
 INSERT INTO pooquotes (quote) VALUES ('🚓 Call the cops! My butt has committed a terrible crime!');
 INSERT INTO pooquotes (quote) VALUES ('📰 Everyone reads on the can, right?');
+INSERT INTO pooquotes (quote) VALUES ('⛽ Never out of gas!');
