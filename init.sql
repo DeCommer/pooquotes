@@ -212,3 +212,4 @@ INSERT INTO pooquotes (quote) VALUES ('⛽ Never out of gas!');
 INSERT INTO pooquotes (quote) VALUES ('🦛 Go watch hippos fling their poo on YouTube. It''s cute.');
 INSERT INTO pooquotes (quote) VALUES ('😫 PUSH!!!!!!!');
 INSERT INTO pooquotes (quote) VALUES ('🍏 Green apple splatters!');
+INSERT INTO pooquotes (quote) VALUES ('📰 No poos is bad poos!');
