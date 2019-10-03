@@ -216,3 +216,4 @@ INSERT INTO pooquotes (quote) VALUES ('📰 No poos is bad poos!');
 INSERT INTO pooquotes (quote) VALUES ('📆 Poo for days');
 INSERT INTO pooquotes (quote) VALUES ('🧱 Poopin'' bricks!');
 INSERT INTO pooquotes (quote) VALUES ('🏈 Felt like a football!');
+INSERT INTO pooquotes (quote) VALUES ('🤑 Cash for poo dot com!');
