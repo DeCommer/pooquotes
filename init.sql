@@ -218,3 +218,4 @@ INSERT INTO pooquotes (quote) VALUES ('🧱 Poopin'' bricks!');
 INSERT INTO pooquotes (quote) VALUES ('🏈 Felt like a football!');
 INSERT INTO pooquotes (quote) VALUES ('🤑 Cash for poo dot com!');
 INSERT INTO pooquotes (quote) VALUES ('🥡 Chinese food is definitely better going in than coming out!');
+INSERT INTO pooquotes (quote) VALUES ('🍩 Chocolate donuts don''t look so great, but boy are they delicious.');
