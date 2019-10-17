@@ -224,3 +224,4 @@ INSERT INTO pooquotes (quote) VALUES ('🎶 If you''re crappy and you know it ta
 INSERT INTO pooquotes (quote) VALUES ('🌪 Poopin'' up a storm!');
 INSERT INTO pooquotes (quote) VALUES ('🦖 Sleeping dragon...');
 INSERT INTO pooquotes (quote) VALUES ('🏚 Crap hole');
+INSERT INTO pooquotes (quote) VALUES ('🧨 Butt bomb!');
