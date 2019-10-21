@@ -226,3 +226,4 @@ INSERT INTO pooquotes (quote) VALUES ('🦖 Sleeping dragon...');
 INSERT INTO pooquotes (quote) VALUES ('🏚 Crap hole');
 INSERT INTO pooquotes (quote) VALUES ('🧨 Butt bomb!');
 INSERT INTO pooquotes (quote) VALUES ('💄 Even poo can be beautiful!');
+INSERT INTO pooquotes (quote) VALUES ('💨 It always starts with farts.');
