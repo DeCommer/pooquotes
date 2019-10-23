@@ -229,3 +229,4 @@ INSERT INTO pooquotes (quote) VALUES ('💄 Even poo can be beautiful!');
 INSERT INTO pooquotes (quote) VALUES ('💨 It always starts with farts.');
 INSERT INTO pooquotes (quote) VALUES ('👻 Ghost load!');
 INSERT INTO pooquotes (quote) VALUES ('⛪ Holy crap!');
+INSERT INTO pooquotes (quote) VALUES ('🎳 Sterrrrr -- eak!');
