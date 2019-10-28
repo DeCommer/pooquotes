@@ -231,3 +231,5 @@ INSERT INTO pooquotes (quote) VALUES ('👻 Ghost load!');
 INSERT INTO pooquotes (quote) VALUES ('⛪ Holy crap!');
 INSERT INTO pooquotes (quote) VALUES ('🎳 Sterrrrr -- eak!');
 INSERT INTO pooquotes (quote) VALUES ('🕳 From one hole to another.');
+INSERT INTO pooquotes (quote) VALUES ('🐛 We''re all just one long tube');
+INSERT INTO pooquotes (quote) VALUES ('🥜 Creamy');
