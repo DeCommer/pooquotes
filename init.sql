@@ -233,3 +233,5 @@ INSERT INTO pooquotes (quote) VALUES ('🎳 Sterrrrr -- eak!');
 INSERT INTO pooquotes (quote) VALUES ('🕳 From one hole to another.');
 INSERT INTO pooquotes (quote) VALUES ('🐛 We''re all just one long tube');
 INSERT INTO pooquotes (quote) VALUES ('🥜 Creamy');
+INSERT INTO pooquotes (quote) VALUES ('🦂 Never know when there''s a bug in the bowl!');
+INSERT INTO pooquotes (quote) VALUES ('💭 Who remembers everytime they poo? I don''t, how about you?');
