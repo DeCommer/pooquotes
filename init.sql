@@ -236,3 +236,4 @@ INSERT INTO pooquotes (quote) VALUES ('🥜 Creamy');
 INSERT INTO pooquotes (quote) VALUES ('🦂 Never know when there''s a bug in the bowl!');
 INSERT INTO pooquotes (quote) VALUES ('💭 Who remembers everytime they poo? I don''t, how about you?');
 INSERT INTO pooquotes (quote) VALUES ('🌥 Mostly cloudy!');
+INSERT INTO pooquotes (quote) VALUES ('🦖 Open the door, get on the floor... I just took a crap!');
