@@ -240,3 +240,4 @@ INSERT INTO pooquotes (quote) VALUES ('🦖 Open the door, get on the floor... I
 INSERT INTO pooquotes (quote) VALUES ('🤔 Those who claim to never crap are full of it...');
 INSERT INTO pooquotes (quote) VALUES ('😲 What a load of crap!');
 INSERT INTO pooquotes (quote) VALUES ('🤖 A.I. All the smarts. None of the poo mess.');
+INSERT INTO pooquotes (quote) VALUES ('✌️ We''re all brown on the inside!');
