@@ -241,3 +241,5 @@ INSERT INTO pooquotes (quote) VALUES ('🤔 Those who claim to never crap are fu
 INSERT INTO pooquotes (quote) VALUES ('😲 What a load of crap!');
 INSERT INTO pooquotes (quote) VALUES ('🤖 A.I. All the smarts. None of the poo mess.');
 INSERT INTO pooquotes (quote) VALUES ('✌️ We''re all brown on the inside!');
+INSERT INTO pooquotes (quote) VALUES ('💦 Plop!');
+INSERT INTO pooquotes (quote) VALUES ('☃️ Frosty the Turdlet!');
