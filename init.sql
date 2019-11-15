@@ -243,3 +243,5 @@ INSERT INTO pooquotes (quote) VALUES ('🤖 A.I. All the smarts. None of the poo
 INSERT INTO pooquotes (quote) VALUES ('✌️ We''re all brown on the inside!');
 INSERT INTO pooquotes (quote) VALUES ('💦 Plop!');
 INSERT INTO pooquotes (quote) VALUES ('☃️ Frosty the Turdlet!');
+INSERT INTO pooquotes (quote) VALUES ('💝 Have a little poo in your heart.');
+INSERT INTO pooquotes (quote) VALUES ('♻️ Tube to mouth, tube to butt, you''ll never have to eat again. Poop Loop™!');
