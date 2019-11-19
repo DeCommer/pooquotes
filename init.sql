@@ -246,3 +246,6 @@ INSERT INTO pooquotes (quote) VALUES ('☃️ Frosty the Turdlet!');
 INSERT INTO pooquotes (quote) VALUES ('💝 Have a little poo in your heart.');
 INSERT INTO pooquotes (quote) VALUES ('♻️ Tube to mouth, tube to butt, you''ll never have to eat again. Poop Loop™!');
 INSERT INTO pooquotes (quote) VALUES ('🤏 Pinching a loaf');
+INSERT INTO pooquotes (quote) VALUES ('🤡 The President is a piece of shit.');
+INSERT INTO pooquotes (quote) VALUES ('😪 Too much goo.');
+INSERT INTO pooquotes (quote) VALUES ('🎶 Beep Bopp Baad aah yaaah! Scat!');
