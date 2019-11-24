@@ -249,3 +249,6 @@ INSERT INTO pooquotes (quote) VALUES ('🤏 Pinching a loaf');
 INSERT INTO pooquotes (quote) VALUES ('🤡 The President is a piece of shit.');
 INSERT INTO pooquotes (quote) VALUES ('😪 Too much goo.');
 INSERT INTO pooquotes (quote) VALUES ('🎶 Beep Bopp Baad aah yaaah! Scat!');
+INSERT INTO pooquotes (quote) VALUES ('🥰 Gonna wrap you up in my poooo!');
+INSERT INTO pooquotes (quote) VALUES ('🚂 All aboard the poo choo train!');
+INSERT INTO pooquotes (quote) VALUES ('⛈️ There''s a poo storm a brewin''');
