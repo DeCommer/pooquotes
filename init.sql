@@ -252,3 +252,5 @@ INSERT INTO pooquotes (quote) VALUES ('🎶 Beep Bopp Baad aah yaaah! Scat!');
 INSERT INTO pooquotes (quote) VALUES ('🥰 Gonna wrap you up in my poooo!');
 INSERT INTO pooquotes (quote) VALUES ('🚂 All aboard the poo choo train!');
 INSERT INTO pooquotes (quote) VALUES ('⛈️ There''s a poo storm a brewin''');
+INSERT INTO pooquotes (quote) VALUES ('🤞 Poo fingers!');
+INSERT INTO pooquotes (quote) VALUES ('✂️ Cuttin'' off a slice!');
