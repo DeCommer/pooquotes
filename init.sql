@@ -258,3 +258,6 @@ INSERT INTO pooquotes (quote) VALUES ('🙊 Ooh! It smells!');
 INSERT INTO pooquotes (quote) VALUES ('👨🏽‍🚀 Gonna need a space suit to clean this up!');
 INSERT INTO pooquotes (quote) VALUES ('🌞 All day long. All day strong!');
 INSERT INTO pooquotes (quote) VALUES ('🍗 Turkey goes in and turkey comes out.');
+INSERT INTO pooquotes (quote) VALUES ('😬 Got the gurgles!');
+INSERT INTO pooquotes (quote) VALUES ('🏺 Enough to fill several amphorae');
+INSERT INTO pooquotes (quote) VALUES ('📅 Yesterday''s poos!');
