@@ -261,3 +261,4 @@ INSERT INTO pooquotes (quote) VALUES ('🍗 Turkey goes in and turkey comes out.
 INSERT INTO pooquotes (quote) VALUES ('😬 Got the gurgles!');
 INSERT INTO pooquotes (quote) VALUES ('🏺 Enough to fill several amphorae');
 INSERT INTO pooquotes (quote) VALUES ('📅 Yesterday''s poos!');
+INSERT INTO pooquotes (quote) VALUES ('🎊 250th poo of the year! WHOOOO!');
