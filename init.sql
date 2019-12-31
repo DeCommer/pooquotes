@@ -276,3 +276,5 @@ INSERT INTO pooquotes (quote) VALUES ('📬 You''ve got poo!');
 INSERT INTO pooquotes (quote) VALUES ('🎅 Merry Poopmas!');
 INSERT INTO pooquotes (quote) VALUES ('👐 Light touch');
 INSERT INTO pooquotes (quote) VALUES ('🏳️ Surrender to the poo!');
+INSERT INTO pooquotes (quote) VALUES ('🥋 This poo totally kicked my ass!!!');
+INSERT INTO pooquotes (quote) VALUES ('😐 The poo saga continues...');
